@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youngestdev" alt="youngestdev" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/abdull_network" target="blank"><img src="https://img.shields.io/twitter/follow/abdull_network?logo=twitter&style=for-the-badge" alt="abdull_network" /></a> </p>
+
 
 - 🔭 I’m currently working on **a CRM and ERM Software**
 
