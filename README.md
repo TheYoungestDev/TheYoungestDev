@@ -41,9 +41,5 @@
 <p><a href="https://www.buymeacoffee.com/iamabdul"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iamabdul" /></a></p><br><br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=youngestdev&show_icons=true&locale=en&layout=compact" alt="youngestdev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=youngestdev&show_icons=true&locale=en" alt="youngestdev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youngestdev&" alt="youngestdev" /></p>
 
