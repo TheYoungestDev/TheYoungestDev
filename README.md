@@ -1,19 +1,14 @@
 <h1 align="center">Hi 👋, I'm Abdullahi Tijani</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A passionate Frontend Software Engineer from Nigeria</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif](https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif)">
 
 
 
 
-
-
-
-
-
 - 🔭 I’m currently working on **a CRM and ERM Software**
 
-- 🌱 I’m currently learning **Node.js and other languages**
+- 🌱 I’m currently learning **Shell and other languages at ALX**
 
 - 👨‍💻 All of my projects are available at [developer-abdullahi.online](developer-abdullahi.online)
 
